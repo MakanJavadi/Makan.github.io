@@ -111,7 +111,7 @@ author:
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : CE Student at IUST located Tehran, Iran. Interested in Mathemathics, Cyber Security, IoT, Rock and Metal musics.  
   location         : "Tehran-Iran"
-  email            : makan.h.s.javadi@gmail.com
+  #email            : makan.h.s.javadi@gmail.com
   twitter: JavadiMakan
   linkedin: Makan HSJavadi
   google_scholar: 
@@ -120,7 +120,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:makan.h.s.javadi@gmail.com
+      # url: mailto:your.name@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -138,7 +138,7 @@ author:
       # url: "https://instagram.com/"
     - label: "Calendly"
       icon: "fas fa-calendar-alt"
-      url: "http://calendly.com/Makan_Javadi"
+      #url: "http://calendly.com/Makan_Javadi"
 
 # Site Footer
 footer:
@@ -163,7 +163,7 @@ footer:
       # url:
     - label: "Calendly"
       icon: "fas fa-calendar-alt"
-      url: "http://calendly.com/Makan_Javadi"
+      #url: "http://calendly.com/Makan_Javadi"
 
 
 # Reading Files
