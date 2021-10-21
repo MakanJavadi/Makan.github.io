@@ -9,9 +9,9 @@ comments: true
 ---
 
 ### همکلاسی‌ها
-* [Pouya Abniki](pouyaabniki.github.io)
-* [Ali Hosseini](seyedalihosseinibahri.github.io)
-* [Mobin Barfi](mobinbr.github.io)
-* [Attila Roshani](AttilaRoshani.github.io.git)
-* [Sadra Dadkhah](sadradadkhah.github.io)
+* [Pouya Abniki](http://pouyaabniki.github.io)
+* [Ali Hosseini](http://seyedalihosseinibahri.github.io)
+* [Mobin Barfi](http://mobinbr.github.io)
+* [Attila Roshani](http://AttilaRoshani.github.io.git)
+* [Sadra Dadkhah](http://sadradadkhah.github.io)
 
