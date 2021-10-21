@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "dark" #"default" # "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US" 
-title                    : "صفحه اطلاعات عمومی سید ماکان حاجی سید جوادی "
+title                    : "درباره سید ماکان حاجی سید جوادی"
 title_separator          : "-"
 name                     : "Makan" 
 description              : "Welcome to my website. iiii]; )'"
@@ -113,7 +113,7 @@ author:
   location         : "Tehran-Iran"
   #email            : makan.h.s.javadi@gmail.com
   twitter: JavadiMakan
-  linkedin: Makan HSJavadi
+  linkedin: Makan-HSJavadi
   google_scholar: 
   github: MakanJavadi
   instagram: Makan.sz
