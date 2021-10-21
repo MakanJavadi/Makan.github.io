@@ -9,9 +9,9 @@ comments: true
 ---
 
 ### همکلاسی‌ها
-* https://AttilaRoshani/attilaroshani.github.io.git
-* https://sadradadkhah.github.io/
-* https://MRezaT.github.io
+* (https://AttilaRoshani/attilaroshani.github.io.git)
+* (https://sadradadkhah.github.io/)
+* (https://MRezaT.github.io)
 
 
 
